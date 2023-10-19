@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-int main () {
+int main()
+{
     FILE *file;
-    int pemisah, id;
+    int id;
     char name[100];
     double amount;
 
